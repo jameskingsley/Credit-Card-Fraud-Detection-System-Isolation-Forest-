@@ -20,7 +20,7 @@ This project uses Isolation Forest, an unsupervised anomaly detection algorithm,
 ###### Machine Learning Strategy
 * Aspect - Choice
 * Problem Type - Unsupervised Anomaly Detection
-* Model	Isolation - Forest
+* Model -	Isolation  Forest
 * Scaling -	RobustScaler
 * Training Data -	Normal (non-fraud) transactions only
 * Decision Metric -	Anomaly score
